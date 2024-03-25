@@ -1,0 +1,15 @@
+[package]
+name = "client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-program = "1.18.5"
+solana-rpc-client = "1.18.5"
+solana-sdk = "1.18.5"
+spl-token = "4.0.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+#cargo add solana-program solana-rpc-client solana-sdk spl-token
+
